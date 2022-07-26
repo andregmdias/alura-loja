@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55e9db1f-6ebe-46f4-a156-aafe33e0e658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/TipoImposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/ICMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/ISS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/Imposto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/loja.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/CalculadoraDeImpostoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/imposto/TipoImposto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +19,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,6 +46,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
@@ -109,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658850518604</updated>
-      <workItem from="1658850521261" duration="2594000" />
+      <workItem from="1658850521261" duration="3726000" />
     </task>
     <servers />
   </component>
